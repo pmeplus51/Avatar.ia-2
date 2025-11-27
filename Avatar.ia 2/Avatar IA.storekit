@@ -1,0 +1,123 @@
+{
+  "appPolicies" : {
+    "eula" : "",
+    "policies" : [
+      {
+        "locale" : "en_US",
+        "policyText" : "",
+        "policyURL" : ""
+      }
+    ]
+  },
+  "identifier" : "B952F344",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "89.99",
+      "familyShareable" : false,
+      "internalID" : "6755183763",
+      "localizations" : [
+        {
+          "description" : "10k crédits instantanés",
+          "displayName" : "Pack 10k crédits",
+          "locale" : "fr"
+        }
+      ],
+      "productID" : "avatar.pmeplus.app.10kpack",
+      "referenceName" : "Pack 10000 crédits",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "17.99",
+      "familyShareable" : false,
+      "internalID" : "6755183602",
+      "localizations" : [
+        {
+          "description" : "2k crédits instantanés",
+          "displayName" : "Pack 2k crédits",
+          "locale" : "fr"
+        }
+      ],
+      "productID" : "avatar.pmeplus.app.2kpack",
+      "referenceName" : "Pack 2000 crédits",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "44.99",
+      "familyShareable" : false,
+      "internalID" : "6755183676",
+      "localizations" : [
+        {
+          "description" : "5000 crédits instantanés",
+          "displayName" : "Pack 5k crédits",
+          "locale" : "fr"
+        }
+      ],
+      "productID" : "avatar.pmeplus.app.5k",
+      "referenceName" : "Pack 5000 crédits",
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+    "_applicationInternalID" : "6755181902",
+    "_askToBuyEnabled" : false,
+    "_billingGracePeriodEnabled" : false,
+    "_billingIssuesEnabled" : false,
+    "_developerTeamID" : "5D6QFURCG8",
+    "_disableDialogs" : false,
+    "_failTransactionsEnabled" : false,
+    "_lastSynchronizedDate" : 785712315.17342198,
+    "_locale" : "en_US",
+    "_renewalBillingIssuesEnabled" : false,
+    "_storefront" : "USA",
+    "_storeKitErrors" : [
+
+    ],
+    "_timeRate" : 0
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "21830643",
+      "localizations" : [
+
+      ],
+      "name" : "Abonnement premium",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "codeOffers" : [
+
+          ],
+          "displayPrice" : "8.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "6755183231",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "1000 Crédits hebdomadaires",
+              "displayName" : "Abonnement Premium",
+              "locale" : "fr"
+            }
+          ],
+          "productID" : "avatar.pmeplus.app.premium",
+          "recurringSubscriptionPeriod" : "P1W",
+          "referenceName" : "Premium",
+          "subscriptionGroupID" : "21830643",
+          "type" : "RecurringSubscription",
+          "winbackOffers" : [
+
+          ]
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 4,
+    "minor" : 0
+  }
+}

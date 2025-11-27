@@ -1,6 +1,7 @@
 {
   "images" : [
     {
+      "filename" : "Fond_noir_et_gris_nuanc__et_fondu_1763992610458.jpg",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
@@ -12,6 +13,7 @@
           "value" : "dark"
         }
       ],
+      "filename" : "Fond_noir_et_gris_nuanc__et_fondu_1763992610458 1.jpg",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
@@ -23,6 +25,7 @@
           "value" : "tinted"
         }
       ],
+      "filename" : "Fond_noir_et_gris_nuanc__et_fondu_1763992610458 2.jpg",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
